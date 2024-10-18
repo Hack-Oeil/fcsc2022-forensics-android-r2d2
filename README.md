@@ -4,8 +4,8 @@ Le PDG de GoodCorp n’en démord pas : son téléphone est backdooré, et en pl
 
 Notes :
 
-Note 1: les épreuves C-3PO, R2-D2 et R5-D4 sont indépendantes
-Note 2: L’application Authenticator ne fait pas partie de l’épreuve
+- **Note 1**: les épreuves C-3PO, R2-D2 et R5-D4 sont indépendantes
+- **Note 2**: L’application Authenticator ne fait pas partie de l’épreuve
 
 
 
